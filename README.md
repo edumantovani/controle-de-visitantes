@@ -8,7 +8,11 @@ O projeto controle de visitantes tem o objetivo informatizar o processo de regis
 
 # Processo de registro de visitantes.
 
-Deploy da Aplicação com Git Pages: ACESSE AQUI
+<h3 align="center">
+  Deploy da Aplicação com Git Pages:
+  <a href="https://edumantovani.github.io/controle_de_visitantes/" target="__blank">ACESSE AQUI </p>
+</h3>
+
 Status: Finalizado ✅
 
 <p align="center">
@@ -20,7 +24,7 @@ Status: Finalizado ✅
 </h4>
 
 <p align="center">
-  <img src="img/NETFLIX_CLONE.gif" alt="" width="600px" height="300px">
+  <img src="templates/Controle-de-Visitantes.gif" alt="" width="600px" height="300px">
 </p>
 
 Principais funcionalidades

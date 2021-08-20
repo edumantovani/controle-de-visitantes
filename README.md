@@ -1,16 +1,27 @@
-Home
+# Home
 O repositório controle-visitantes é destinado a armazenar o código referente ao projeto desenvolvido durante o curso [Django framework na prática] do Thiago Brasil na plataforma Udemy.
 
 O objetivo do curso é explorar as principais funcionalidades do framework Django por meio da construção de uma dashboard para registro e administração de visitantes de um determinado condomínio. Vamos desenvolver um projeto real e aprender ao longo de seu desenvolvimento o que são as ferramentas que o framework nos dá e como utilizá-las.
 
-Conhecendo o processo
+# Conhecendo o processo
 O projeto controle de visitantes tem o objetivo informatizar o processo de registro e administração de visitantes do condomínio Montanhas Azuis.
 
-Processo de registro de visitantes.
+# Processo de registro de visitantes.
 
 Deploy da Aplicação com Git Pages: ACESSE AQUI
 Status: Finalizado ✅
 
+<p align="center">
+  Projeto desenvolvido em Django Python.
+</p>
+
+<h4 align="center">
+  Status: Finalizado :white_check_mark:
+</h4>
+
+<p align="center">
+  <img src="img/NETFLIX_CLONE.gif" alt="" width="600px" height="300px">
+</p>
 
 Principais funcionalidades
 Registro de visitantes

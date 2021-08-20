@@ -8,11 +8,6 @@ O projeto controle de visitantes tem o objetivo informatizar o processo de regis
 
 # Processo de registro de visitantes.
 
-<h3 align="center">
-  Deploy da Aplicação com Git Pages:
-  <a href="https://edumantovani.github.io/controle_de_visitantes/" target="__blank">ACESSE AQUI </p>
-</h3>
-
 Status: Finalizado ✅
 
 <p align="center">
